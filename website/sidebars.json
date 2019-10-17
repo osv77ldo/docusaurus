@@ -1,0 +1,25 @@
+{
+  "docs": {
+    "Thor Documentation": [
+      "documentation index",
+      "azure resources",
+      "step by step guide",
+      "scripts",
+      "schedulers",
+      "go live checklist",
+      "message bus",
+      "linio seller center",
+      "thor api",
+      "architecture",
+      "sequence diagrams",
+      "dashboards"
+    ]
+  },
+  "Troubleshooting": {
+    "Thor Troubleshooting": [
+      "troubleshooting index",
+      "testing locally",
+      "manual report generation"
+    ]
+  }
+}
